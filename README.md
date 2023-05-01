@@ -14,6 +14,7 @@
 
 ### Connect with me:
 - 📫 How to reach me: ...
+
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/mfeitosa/)
 
 <br />
@@ -45,8 +46,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmcabreira&show_icons=true&hide_border=true" />
 
 [e-mail]: marcfeitosa1@gmail.com
 [linkedin]: linkedin.com/in/cabreirajm
