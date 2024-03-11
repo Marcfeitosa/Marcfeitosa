@@ -2,13 +2,13 @@
 
 ### Márcio Feitosa - [Data Scientist] 👋
 
-## I am graduated in System Develpment who turned into a data scientist who loves leveraging data-driven solutions that make an impact on business and society!
+## I have graduated in System Development and aspire to be a data scientist who loves implementing data-driven solutions that have a meaningful impact on both business and society!
 
 - 🔭 I’m currently working on predictive models
-- 📈 I’m constantly learning to improve my skill but focusing in Machine Learning Algorithms
-- 👯 I’m looking to collaborate on economic projects and with other Data Scientists and developers
+- 📈 I’m constantly learning to improve my skills but focusing on Machine Learning Algorithms
+- 👯 I’m looking to collaborate on economic projects and with other Data Scientists and Developers
 - 🤔 I’m looking for help with my next challenge
-- 💬 Ask me about anything, but I don't think i'll be able to answer everything
+- 💬 Ask me about anything, but I don't think I'll be able to answer everything
 - ⚡ Fun fact: ...
 - 💻 I’m currently working as a Data Science Instructor
 
