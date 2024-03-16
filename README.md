@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with my next challenge
 - 💬 Ask me about anything, but I don't think I'll be able to answer everything
 - ⚡ Fun fact: I've also graduated in International Relations and I'm an acting headhunter looking for the best talents across the world.
-- 💻 I’m currently working as a Data Science Instructor
+
 
 ### Connect with me:
 - 📫 How to reach me: ...
