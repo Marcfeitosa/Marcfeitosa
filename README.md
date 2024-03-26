@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-### Márcio Feitosa - [Data Scientist] 👋
+### Márcio Feitosa - [Data Engineer] 👋
 
-## I have graduated in System Development and aspire to be a data scientist who loves implementing data-driven solutions that have a meaningful impact on both business and society!
+## I have graduated in System Development and aspire to be a data engineer who loves implementing data-driven solutions that have a meaningful impact!
 
 - 🔭 I’m currently working on predictive models
 - 📈 I’m constantly learning to improve my skills but focusing on Machine Learning Algorithms
-- 👯 I’m looking to collaborate on economic projects and with other Data Scientists and Developers
+- 👯 I’m looking to collaborate on economic projects and with Data Scientists and Developers
 - 🤔 I’m looking for help with my next challenge
 - 💬 Ask me about anything, but I don't think I'll be able to answer everything
 - ⚡ Fun fact: I've also graduated in International Relations and I'm an acting headhunter looking for the best talents across the world.
